@@ -1,2 +1,2 @@
 # Java-practice
-DMMWEBCAMP Javaカリキュラム
+DMMWEBCAMP Javaカリキュラム.
